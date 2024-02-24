@@ -1,0 +1,17 @@
+# Ignore build output directory
+build
+out
+bin
+**/__pycache__/*
+
+# Log file
+*.log
+
+# OS specific files
+.DS_Store
+.java-version
+tags
+.tags
+
+# Vim swp files
+.*.swp
